@@ -4,7 +4,7 @@ A **front-end React application** simulating a hiring platform designed for HR t
 
 This project was built as part of the **ENTNT Software Engineer Intern technical assignment**.  
 
-- [**Live Demo**](https://ymam-work-tktx.vercel.app/)  
+- [**Live Demo**](https://talentflow-a-mini-hiring-platform-virid.vercel.app/)  
 - [**GitHub Repository**](https://github.com/YashitaaArya/TALENTFLOW-A-MINI-HIRING-PLATFORM)
 
 ---
