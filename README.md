@@ -60,7 +60,7 @@ When you open the deployed app:
 ## Tech Stack  
 
 - **React (Vite)** – Frontend framework  
-- **TypeScript** – Type safety  
+- **JavaScript**  
 - **Redux Toolkit / Zustand** – State management  
 - **React Query** – Data fetching & caching  
 - **React Router** – Routing  
