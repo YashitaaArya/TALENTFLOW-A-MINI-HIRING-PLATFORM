@@ -118,21 +118,10 @@ npm run dev
 Now open:
 (`http://localhost:5173`)
 
-## Credentials
-
-This app is front-end only. Authentication is mocked.
-### Admin/HR Login
- - Email: admin@talentflow.com
- - Password: admin123
-
-### Candidate Access
-Direct via navigation (no signup required).
-
 ---
 
 ### Testing
 - Jest + React Testing Library for unit/integration tests.
-- MSW for API mocking in tests.
 
 ### Run
 ``` npm run test ```
